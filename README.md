@@ -1,10 +1,10 @@
-一键脚本安装shadowsocks/shadowsocksR/V2Ray + 开启bbr
+一键脚本安装s-s/s-sR/V2-Ray + 开启bbr
 ---
 
-一键脚本搭建shadowsocks/shadowsocksR/V2Ray + 设置开启自启动 + 升级内核&开启bbr加速。
+一键脚本搭建s-s/s-sR/V2-Ray + 设置开启自启动 + 升级内核&开启bbr加速。
 
 ## 声明
-本脚本源自于[flyzy小站](https://www.flyzy2005.com)，目前已经被GFW拉入黑名单了，直接DNS污染了，国内无法访问。
+本脚本源自于[flyzy小站]，目前已经被GFW拉入黑名单了，直接DNS污染了，国内无法访问。欢迎大家访问七彩blog(https://www.7colorblog.com)
 
 ## 支持系统
 CentOS 6+
