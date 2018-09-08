@@ -1,5 +1,5 @@
 #! /bin/bash
-# Copyright (c) 2018 flyzy小站
+# Copyright (c) 2018 flyzy小站 update by lizhongnian
 
 red='\033[0;31m'
 green='\033[0;32m'
